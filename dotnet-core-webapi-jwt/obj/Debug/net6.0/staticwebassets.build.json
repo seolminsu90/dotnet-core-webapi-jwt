@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bbdMaIG1woeGZtKu9eZcjXq4rRIKq8dHpNWOUpT+uo0=",
+  "Source": "dotnet-core-webapi-jwt",
+  "BasePath": "_content/dotnet-core-webapi-jwt",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

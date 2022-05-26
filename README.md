@@ -6,3 +6,10 @@
 
 ### 참조 사이트
 https://aspdotnet.tistory.com/2831
+
+### nuget
+```
+Microsoft.AspNetCore.Authentication.JwtBearer
+Microsoft.IdentityModel.JsonWebTokens
+System.IdentityModel.Tokens.Jwt
+```

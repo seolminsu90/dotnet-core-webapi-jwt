@@ -71,6 +71,7 @@ namespace dotnet_core_webapi_jwt.Controllers
         [Authorize(AuthenticationSchemes = Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerDefaults.AuthenticationScheme)]
         public IActionResult GetList()
         {
+            Console.WriteLine(User.Identity!.Name); // => ex) Admin
             return Ok(logins);
         }
     }
